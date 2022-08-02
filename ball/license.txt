@@ -1,0 +1,11 @@
+Model Information:
+* title:	foot ball
+* source:	https://sketchfab.com/3d-models/foot-ball-42f2dacd02f3427190be53974344844c
+* author:	AdrienakaMerte (https://sketchfab.com/AdrienakaMerte)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "foot ball" (https://sketchfab.com/3d-models/foot-ball-42f2dacd02f3427190be53974344844c) by AdrienakaMerte (https://sketchfab.com/AdrienakaMerte) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dory's Reef HD - Nemo
+* source:	https://sketchfab.com/3d-models/dorys-reef-hd-nemo-f4f5eb4ea86044fcae7b383d2f1788e9
+* author:	Here's Annoying Orange (https://sketchfab.com/heresannoyingorange)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dory's Reef HD - Nemo" (https://sketchfab.com/3d-models/dorys-reef-hd-nemo-f4f5eb4ea86044fcae7b383d2f1788e9) by Here's Annoying Orange (https://sketchfab.com/heresannoyingorange) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
