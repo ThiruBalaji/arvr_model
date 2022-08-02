@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tom
+* source:	https://sketchfab.com/3d-models/tom-a0dcf723ecb74f61972562efe0eca848
+* author:	FAZ - F Animation Zone (https://sketchfab.com/Gafill.Jirayut)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tom" (https://sketchfab.com/3d-models/tom-a0dcf723ecb74f61972562efe0eca848) by FAZ - F Animation Zone (https://sketchfab.com/Gafill.Jirayut) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
