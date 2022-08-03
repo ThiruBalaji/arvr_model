@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ice cream
+* source:	https://sketchfab.com/3d-models/ice-cream-785ac83a6ddd4cb7a6a9c8ca3265ef1f
+* author:	ETBENO (https://sketchfab.com/yulaflibiskuvi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ice cream" (https://sketchfab.com/3d-models/ice-cream-785ac83a6ddd4cb7a6a9c8ca3265ef1f) by ETBENO (https://sketchfab.com/yulaflibiskuvi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
